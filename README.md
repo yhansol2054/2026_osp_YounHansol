@@ -1,3 +1,3 @@
 # 2026_osp_YounHansol
 
-Git practive repository.
+Git practice 1
